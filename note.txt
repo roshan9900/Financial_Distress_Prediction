@@ -2,3 +2,6 @@
 2. git setup
 3. setup.py
 4. src
+5. components
+6. pipeline 
+7. logger, utils, exception
