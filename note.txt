@@ -1,0 +1,4 @@
+1. venv
+2. git setup
+3. setup.py
+4. src

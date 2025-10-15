@@ -1,2 +1,61 @@
 GiveMeSomeCredit.zip
 venv/
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (raw and processed)
+data/
+*.csv
+*.parquet
+*.xlsx
+*.h5
+*.db
+
+# Model artifacts
+models/
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.ckpt
+
+# MLflow artifacts
+mlruns/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.dockerignore
+Dockerfile
+
+# VSCode
+.vscode/
+
+# PyCharm
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
